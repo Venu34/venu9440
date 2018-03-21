@@ -1,0 +1,36 @@
+{
+  "basic":{
+    "photo":"ven.jpg",
+    "name":"venugopal",
+    "email":"repallevenu9440@gmail.com",
+    "mobile":"9440333775",
+  },
+  "education":[
+    {
+      "course":"Btech(computer science and engineering)",
+      "institution":[
+        "g.pullaiah college of enginerring",
+         "2015-2019",
+         "70"
+      ]
+
+    },
+    {
+      "couse":"Intermediate",
+      "institution":[
+        "Narayana junior college",
+        "2013-2015",
+        "85"
+      ]
+
+},
+{
+  "couse":"SSC",
+  "institution":[
+    "sree manik high school",
+     "90"
+  ]
+}
+
+  ]
+}
