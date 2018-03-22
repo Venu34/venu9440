@@ -5,10 +5,10 @@
     "email":"repallevenu9440@gmail.com",
     "mobile":"9440333775",
   },
-  "education":[
+  "Education":[
     {
       "course":"Btech(computer science and engineering)",
-      "institution":[
+      "Institution":[
         "g.pullaiah college of enginerring",
          "2015-2019",
          "70"
@@ -17,7 +17,7 @@
     },
     {
       "couse":"Intermediate",
-      "institution":[
+      "Institution":[
         "Narayana junior college",
         "2013-2015",
         "85"
@@ -26,11 +26,20 @@
 },
 {
   "couse":"SSC",
-  "institution":[
+  "Institution":[
     "sree manik high school",
-     "90"
-  ]
-}
-
-  ]
+     "2012-2013",
+     "90"]
+   }
+ ],
+ "skills":[
+   {
+     "name":"operating system",
+     "value":"Linux,Windows"
+   },
+ {
+   "name":"programming Languages",
+   "value":"c,c++,java"
+ }
+]
 }
